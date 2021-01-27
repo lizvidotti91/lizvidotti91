@@ -11,9 +11,9 @@ Apaixonada por arte, mandalas, filmes e séries.
 Hoje, estudo Técnico em Desenvolvimento de Sistemas no SENAI Cimatec, e estou me encontrando na área de front-end. Me divirto em cada novo desafio nesse vasto universo da programação.
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizvidotti91&hide=html&layout=compact&theme=radical" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=lizvidotti91&theme=radical&show_icons=true" />
-  <img width="400px" src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
+  <img width="25vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizvidotti91&hide=html&layout=compact&theme=radical" />
+  <img width="25vw" src="https://github-readme-stats.vercel.app/api?username=lizvidotti91&theme=radical&show_icons=true" />
+  <img width="50vw" src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
 
 </p>
 
