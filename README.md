@@ -14,4 +14,4 @@ Hoje, estudo Técnico em Desenvolvimento de Sistemas no SENAI Cimatec, e estou m
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizvidotti91&hide=html&layout=compact&theme=radical" />
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=lizvidotti91&theme=radical&show_icons=true" />
 </p>
-  [!][trophy](https://github-profile-trophy.vercel.app/?username=lizvidotti91&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=lizvidotti91&margin-w=15)
+  [!][trophy](https://github-profile-trophy.vercel.app/?username=lizvidotti91&theme=gruvbox)
