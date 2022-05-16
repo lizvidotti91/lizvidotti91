@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **CSS, Javascript, Salesforce, Arts, Architecture and Urbanism**
 
-- 📫 How to reach me **liz.vidotti@gmail.com**
-
 - ⚡ Fun fact **I love arts, illustration, books and sometimes I post my mandalas on my Instagram. I was in two podcasts, talking about my professional change to development.**
 
 - You can hear me in [Podcast Codar - De repente desenvolvedora](https://open.spotify.com/episode/1hMjc9zmeCYBhsIsxbrWgV)
